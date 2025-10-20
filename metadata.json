@@ -1,0 +1,7 @@
+{
+  "name": "Geo-Grounded Search",
+  "description": "An intelligent search application that uses Google Maps grounding with the Gemini API to provide location-aware, up-to-date answers. Users can ask questions about nearby places, and the app will provide a text response along with source links to Google Maps.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
